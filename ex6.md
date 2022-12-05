@@ -1,0 +1,1 @@
+Exercise 6 rename and delete a file.
