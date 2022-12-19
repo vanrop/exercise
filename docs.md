@@ -1,5 +1,3 @@
-This is the first paragraph of a markdown file for git exercise.
+This documentation describes how to use the Pavel robotic toothbrush.
 
-This is the second paragraph.
-
-This is a new 3rd paragraph.
+Note that this toothbrush is not safe to use for children, adults, or pets.
