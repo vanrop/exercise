@@ -1,1 +1,0 @@
-placeholder text for exercise 6 .
