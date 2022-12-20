@@ -1,1 +1,1 @@
-placeholder text for exercise 6.
+placeholder text for exercise 6 .
